@@ -2,7 +2,7 @@
 
 This is my playground repository where I test and learn data structures and algorithm.
 
-#### Table of Contents
+#### Table of Content
 
 1. Tail Call
 
