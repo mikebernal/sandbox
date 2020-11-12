@@ -1,5 +1,5 @@
 /**
- * 
+ * addOne() function increments/loops until j times.
  * @param {number} i starting unit for incrementing;
  * @param {number} j thresold which the i iterator will stop incrementing 
  */
