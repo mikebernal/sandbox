@@ -6,6 +6,7 @@ This is my playground repository where I test and learn data structures and algo
 
 1. Tail Call
 2. ES6 Set data structure
+3. Removing published file or directory from GitHub
 
 
 ### Tail Call
@@ -15,3 +16,7 @@ Tail call calls and returns another function inside a parent function. This subr
 ### ES6 Set data structure
 
 Set data structure stores only unique values in a container. This is useful if you want to get only a unique attributes from a collection like an array of objects from an API response. It uses the value as a key. 
+
+### Removing files from remote repositories
+
+![rm cached](rmcached.jpg)
