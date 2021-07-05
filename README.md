@@ -34,7 +34,7 @@ Set data structure stores only unique values in a container. This is useful if y
 
 **Using while loop**
 
-Use case scenario: Use while loop if there is already an elements that can be counted.
+Use case scenario: Use while loop if there is already an elements that can be used for counting until the loop is false.
 
 <pre><code>
 var sequence = new List<int> { 1, 1 };
