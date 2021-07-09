@@ -83,3 +83,28 @@ foreach(var x in sequence)
     Console.WriteLine(x);
 }
 </code></pre>
+
+### LINQ Query
+<pre><code>
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+public class Program
+{
+  public static void Main()
+  {
+    string[] names = { "Daquis", "Reyes", "Valdez", "Santiago", "Laure", "Madayag" };
+
+    var linqNames = from name in names
+                    where name.Contains('a')
+                    select name;
+    
+    foreach(var name in linqNames)
+    {
+      Console.WriteLine(name);
+    }
+  }
+}
+
+</code></pre>
