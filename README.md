@@ -34,7 +34,6 @@ Set data structure stores only unique values in a container. This is useful if y
 
 **Using while loop**
 
-Use case scenario: Use while loop if there is already an elements that can be used for counting until the loop is false.
 
 <pre><code>
 var sequence = new List<int> { 1, 1 };
@@ -57,8 +56,6 @@ foreach (var x in sequence)
 
                            
 **Using for loop**         
-                           
-Use case scenario: Use for loop when using empty collection and using a counter in  computation.
              
 <pre><code>             
 var sequence = new List<int> {};
