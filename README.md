@@ -116,4 +116,5 @@ When the page is navigated in the browser:
 
 First Load JS = Size + First Load JS shared by all
 
-First load JS green means performant application
+// First load JS green means performant application
+// Hollow circle means static generation
