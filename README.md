@@ -117,4 +117,9 @@ When the page is navigated in the browser:
 First Load JS = Size + First Load JS shared by all
 
 // First load JS green means performant application
-// Hollow circle means static generation
+
+// Hollow circle ○ means static generation - automatically rendered as static HTML and does not fetch any external data.
+
+// Filled circle ● indicates SSG -  automatically generated as static HTML + JSON (uses getStaticProps)
+
+// 
