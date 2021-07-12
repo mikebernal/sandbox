@@ -112,6 +112,6 @@ public class Program
 
 ![terminal information](terminal_output.png)
 
-When the page is navigates in the browser:
+When the page is navigated in the browser:
 
 First Load JS = Size + First Load JS shared by all
