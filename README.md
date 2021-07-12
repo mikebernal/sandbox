@@ -122,4 +122,6 @@ First Load JS = Size + First Load JS shared by all
 
 // Filled circle ● indicates SSG -  automatically generated as static HTML + JSON (uses getStaticProps)
 
-// 
+### TSX
+
+![terminal information](screen.png)
