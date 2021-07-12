@@ -105,3 +105,13 @@ public class Program
 }
 
 </code></pre>
+
+### NEXT JS
+
+#### Inspecting static generation builds
+
+![rm cached](rmcached.jpg)
+
+When the page is navigates in the browser:
+
+First Load JS = Size + First Load JS shared by all
