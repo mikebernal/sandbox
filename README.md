@@ -110,7 +110,7 @@ public class Program
 
 #### Inspecting static generation builds
 
-![rm cached](rmcached.jpg)
+![terminal information](terminal_output.png)
 
 When the page is navigates in the browser:
 
