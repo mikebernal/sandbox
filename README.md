@@ -115,3 +115,5 @@ public class Program
 When the page is navigated in the browser:
 
 First Load JS = Size + First Load JS shared by all
+
+First load JS green means performant application
