@@ -125,3 +125,11 @@ First Load JS = Size + First Load JS shared by all
 ### TSX
 
 ![terminal information](screen.png)
+
+## SOLID PRINICIPLES
+
+### Interface Segregation
+
+https://dotnettutorials.net/lesson/interface-segregation-principle/
+
+
