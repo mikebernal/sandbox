@@ -133,3 +133,24 @@ First Load JS = Size + First Load JS shared by all
 https://dotnettutorials.net/lesson/interface-segregation-principle/
 
 
+### VUE JS
+
+#### Instanstiating component
+<pre><code>
+new Vue({
+  el: '#app',
+  data: {
+    todoList: [{}, {}, {}]
+  },
+  methods: {
+    handleChange: function() {
+      const { name, value } = e.target;
+      console.log(value);
+    }
+  }
+});
+</code></pre>
+
+#### Templating
+
+![template](template.png)
