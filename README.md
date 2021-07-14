@@ -154,3 +154,14 @@ new Vue({
 #### Templating
 
 ![template](template.png)
+
+##### Vue template directives
+
+// Event handlers
+v-on:input="fn"
+
+// Loops
+v-for="item in items"
+
+// Conditional rendering
+v-if="awesome"
